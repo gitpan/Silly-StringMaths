@@ -1,5 +1,11 @@
 Revision history for Perl extension Silly::StringMaths.
 
+*** 0.13 (15th July 1998)
+
+The test script, ironically, didn't point to the new name of the module,
+and failed even though no tests were defined. This has now been fixed,
+and some basic tests added as well.
+
 *** 0.12 (14th July 1998)
 
 Renamed Silly::StringMaths (it was previously tentatively entitled

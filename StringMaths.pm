@@ -8,7 +8,7 @@ use vars qw($VERSION @ISA @EXPORT_OK @EXPORT);
 @EXPORT_OK=qw(add subtract multiply divide exponentiate
 				  normalise sign negative invert);
 
-$VERSION = '0.12';
+$VERSION = '0.13';
 
 =head1 NAME
 
